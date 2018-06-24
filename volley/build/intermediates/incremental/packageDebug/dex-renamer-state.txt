@@ -1,0 +1,4 @@
+#Sun Jun 24 18:13:35 CST 2018
+base.0=D\:\\MyHomeWork\\MyGitHubDemos\\volley\\MyVolleyDemo\\volley\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\MyHomeWork\\MyGitHubDemos\\volley\\MyVolleyDemo\\volley\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

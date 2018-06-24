@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="20dp"
+                tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+            <Button
+                android:text="get请求"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/confirm_btn_selector"
+                android:textColor="@android:color/white"
+                android:onClick="getRequest"/>
+
+            <Button
+                android:text="post请求"
+                android:layout_marginTop="20dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/confirm_btn_selector"
+                android:textColor="@android:color/white"
+                android:onClick="postRequest"/>
+
+        <Button
+                android:text="post表单提交"
+                android:layout_marginTop="20dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/confirm_btn_selector"
+                android:textColor="@android:color/white"
+                android:onClick="postForm"/>
+            <Button
+                android:text="post上传图片"
+                android:layout_marginTop="20dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/confirm_btn_selector"
+                android:textColor="@android:color/white"
+                android:onClick="postUpload"/>
+            </LinearLayout>
+        </ScrollView>
+
+
+</RelativeLayout>

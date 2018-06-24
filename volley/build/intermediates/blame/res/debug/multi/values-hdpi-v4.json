@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\MyHomeWork\\MyGitHubDemos\\volley\\MyVolleyDemo\\volley\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\think\\.android\\build-cache\\1d47fe57186acc9bb4b20f5f63251554b72bd90b\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]
